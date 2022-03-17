@@ -1,0 +1,16 @@
+C:\Users\hp\Desktop\ders.cs\acces_modifies\acces_modifies\bin\Debug\netcoreapp3.1\acces_modifies.exe
+C:\Users\hp\Desktop\ders.cs\acces_modifies\acces_modifies\bin\Debug\netcoreapp3.1\acces_modifies.deps.json
+C:\Users\hp\Desktop\ders.cs\acces_modifies\acces_modifies\bin\Debug\netcoreapp3.1\acces_modifies.runtimeconfig.json
+C:\Users\hp\Desktop\ders.cs\acces_modifies\acces_modifies\bin\Debug\netcoreapp3.1\acces_modifies.runtimeconfig.dev.json
+C:\Users\hp\Desktop\ders.cs\acces_modifies\acces_modifies\bin\Debug\netcoreapp3.1\acces_modifies.dll
+C:\Users\hp\Desktop\ders.cs\acces_modifies\acces_modifies\bin\Debug\netcoreapp3.1\acces_modifies.pdb
+C:\Users\hp\Desktop\ders.cs\acces_modifies\acces_modifies\bin\Debug\netcoreapp3.1\ClassLibrary1.dll
+C:\Users\hp\Desktop\ders.cs\acces_modifies\acces_modifies\bin\Debug\netcoreapp3.1\ClassLibrary1.pdb
+C:\Users\hp\Desktop\ders.cs\acces_modifies\acces_modifies\obj\Debug\netcoreapp3.1\acces_modifies.csprojAssemblyReference.cache
+C:\Users\hp\Desktop\ders.cs\acces_modifies\acces_modifies\obj\Debug\netcoreapp3.1\acces_modifies.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\ders.cs\acces_modifies\acces_modifies\obj\Debug\netcoreapp3.1\acces_modifies.AssemblyInfo.cs
+C:\Users\hp\Desktop\ders.cs\acces_modifies\acces_modifies\obj\Debug\netcoreapp3.1\acces_modifies.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\ders.cs\acces_modifies\acces_modifies\obj\Debug\netcoreapp3.1\acces_modifies.csproj.CopyComplete
+C:\Users\hp\Desktop\ders.cs\acces_modifies\acces_modifies\obj\Debug\netcoreapp3.1\acces_modifies.dll
+C:\Users\hp\Desktop\ders.cs\acces_modifies\acces_modifies\obj\Debug\netcoreapp3.1\acces_modifies.pdb
+C:\Users\hp\Desktop\ders.cs\acces_modifies\acces_modifies\obj\Debug\netcoreapp3.1\acces_modifies.genruntimeconfig.cache
